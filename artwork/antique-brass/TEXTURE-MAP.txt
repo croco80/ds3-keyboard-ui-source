@@ -1,0 +1,31 @@
+ORIGINAL KEYCAP TEXTURE MAP
+===========================
+
+KG_OK       E / Confirm
+KG_Cancel   Q / Cancel
+KG_R_L      R / Use item
+KG_R_U      F / Two-hand
+KG_R3       C / Lock on
+KG_TP_L     G / Gestures
+KG_Start    Esc / Menu
+KG_TP_R     Esc / Menu alternate
+KG_L_U      Up arrow
+KG_L_D      Down arrow
+KG_L_L      Left arrow
+KG_L_R      Right arrow
+KG_L3       Space
+KG_R1       Left mouse button
+KG_L1       Right mouse button
+KG_R2       Shift + left mouse button
+KG_L2       Shift + right mouse button
+
+master-png\ contains 512 x 512 editable raster masters.
+final-32px-png\ contains the exact PNGs converted to BC7 DDS for the TPF.
+32px-pixel-QA.png enlarges the BC7-decoded pixels extracted back from the final
+menu archive, without smoothing, for inspection.
+
+The renderer source is:
+render_original_keycaps.py
+
+Artwork license:
+..\licenses\Original-Keycap-Artwork-LICENSE-CC0.txt
