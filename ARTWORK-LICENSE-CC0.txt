@@ -1,0 +1,21 @@
+ORIGINAL KEYCAP ARTWORK - CC0 1.0 UNIVERSAL
+===========================================
+
+The original keyboard/mouse keycap artwork and the renderer source supplied
+with this package are dedicated to the public domain under Creative Commons
+CC0 1.0 Universal, to the extent permitted by law.
+
+You may copy, modify, distribute, and use this original artwork, including for
+commercial purposes, without asking permission. Attribution is appreciated but
+not required.
+
+License/deed:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+This dedication covers only the new keycap artwork and its renderer source. It
+does not cover Dark Souls III, third-party mods, Mod Engine 2, Seamless Co-op,
+the Georgia font software, or other third-party material listed in
+THIRD-PARTY-NOTICES.txt.
+
+No font file is included. Georgia is accessed from the user's installed Windows
+fonts only when regenerating the artwork.
