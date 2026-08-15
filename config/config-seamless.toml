@@ -1,0 +1,18 @@
+[modengine]
+debug = false
+crash_reporting = false
+external_dlls = ["SeamlessCoop\\ds3sc.dll"]
+
+[extension.mod_loader]
+enabled = true
+loose_params = false
+mods = [
+    # Keyboard/mouse icons are enabled by default.
+    { enabled = true, name = "Keyboard Icons", path = "DS3 Keyboard Icons\\mod" },
+
+    # 16:10 UI is disabled by settings.ini for this runtime.
+    { enabled = false, name = "16x10 UI Fix", path = "DS3 Keyboard Icons\\mod-16x10-ui" }
+]
+
+[extension.scylla_hide]
+enabled = false

@@ -1,0 +1,18 @@
+[modengine]
+debug = false
+crash_reporting = false
+external_dlls = []
+
+[extension.mod_loader]
+enabled = true
+loose_params = false
+mods = [
+    # Keyboard/mouse icons are enabled by default.
+    { enabled = true, name = "Keyboard Icons", path = "DS3 Keyboard Icons\\mod" },
+
+    # Selected automatically when Enable16x10=1 in settings.ini.
+    { enabled = true, name = "16x10 UI Fix", path = "DS3 Keyboard Icons\\mod-16x10-ui" }
+]
+
+[extension.scylla_hide]
+enabled = false
